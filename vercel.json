@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "src": "/new", "dest": "/index.js" },
+    { "src": "/check", "dest": "/check.js" }
+  ]
+}
